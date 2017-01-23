@@ -1,16 +1,10 @@
 body {
   text-align: center;
-  background: url("http://hudsonvalleyone.com/wp-content/uploads/2012/08/Waiting-for-the-Perseids@.jpg");
+  background: url("https://static1.squarespace.com/static/53444f0fe4b0a085d643a2a2/t/54ff7aebe4b07456ddf8777e/1426029296759/hanging+herbs");
   background-size: cover;
   color: #fff;
   font-family: Helvetica;
 
 hr {
 	width: 200px;
-}
-
-#slogan {
-	font-size: 20px;
-	font-style: italic;
-	color: ffffff;
 }
