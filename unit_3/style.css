@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background: url("http://hudsonvalleyone.com/wp-content/uploads/2012/08/Waiting-for-the-Perseids@.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+
+hr {
+	width: 200px;
+}
+
+#slogan {
+	font-size: 20px;
+	font-style: italic;
+	color: ffffff;
+}
